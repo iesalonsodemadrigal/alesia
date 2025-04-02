@@ -2,7 +2,7 @@ name: Build documentation
 
 on:
   push:
-    branches: ["main"]
+    branches: [ "main" ]
   workflow_dispatch:
 
 permissions:
@@ -80,7 +80,7 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    needs: [build, test]
+    needs: [ build, test ]
     runs-on: ubuntu-latest
     steps:
       - name: Download artifacts
@@ -91,6 +91,15 @@ jobs:
 
       - name: Unzip artifact
         run: unzip -O UTF-8 -qq "artifacts/${{ needs.build.outputs.artifact }}" -d dir
+
+      - name: Commit and push to plesk-page branch
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git checkout -B plesk-page
+          git add docs
+          git commit -m "Deploy Writerside documentation"
+          git push origin plesk-page --force
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
