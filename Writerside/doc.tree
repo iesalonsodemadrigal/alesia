@@ -8,4 +8,10 @@
 
     <toc-element topic="Overview.md"/>
     <toc-element topic="starter-topic.md"/>
+    <toc-element topic="Estado-del-Arte.md"/>
+    <toc-element topic="Hipótesis.md"/>
+    <toc-element topic="Objetivos.md"/>
+    <toc-element topic="Metodología.md"/>
+    <toc-element topic="Resultado-y-Análisis.md"/>
+    <toc-element topic="Conclusiones.md"/>
 </instance-profile>

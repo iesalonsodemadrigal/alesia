@@ -1,17 +1,10 @@
 # Introducción
 
-Introducción al proyecto Alesia.
+Alesia es un proyecto de investigación basado en la experimentación y tenemos como principal objetivo demostrar que se
+puede desarrollar un producto digital que permita la interpretación del lenguaje de signos español a la lengua hablada y
+viceversa.
 
-## What is product/service/concept
 
-Provide some background and context, explain choices and alternatives.
 
-## Glossary
-
-A definition list or a glossary:
-
-First Term
-: This is the definition of the first term.
-
-Second Term
-: This is the definition of the second term.
+Este proyecto ha sido desarrollado durante el curso 2024/25 por los alumnos:
+- David 
