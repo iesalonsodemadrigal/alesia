@@ -114,4 +114,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.DEPLOYMENT_GITHUB_TOKEN }}
           BRANCH: static-pages
+          FOLDER: github-pages/artifact
           MESSAGE: 'Build: ({sha}) {msg}'
