@@ -1,6 +1,5 @@
 .DS_Store
 /speech-to-text/android/.idea
-/.idea/.gitignore
-/.idea/alesia.iml
-/.idea/modules.xml
-/.idea/vcs.xml
+/.idea/
+/website/
+
