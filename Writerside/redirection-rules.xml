@@ -6,8 +6,4 @@
         <accepts>page.html</accepts>
     </rule>
     -->
-    <rule id="12f32c66">
-        <description>Created after removal of "Recursos" from Proyecto Alesia</description>
-        <accepts>Recursos.html</accepts>
-    </rule>
 </rules>
