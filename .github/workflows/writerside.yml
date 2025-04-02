@@ -108,3 +108,11 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Deploy to Branch
+        uses: nicholasgriffintn/github-branch-deployment-action@0.0.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.DEPLOYMENT_GITHUB_TOKEN }}
+          BRANCH: serv_content
+          FOLDER: github-pages/artifact
+          MESSAGE: 'Build: ({sha}) {msg}'
