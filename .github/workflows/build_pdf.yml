@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  INSTANCE: 'Writerside/hi'
+  INSTANCE: 'Writerside/doc'
   DOCKER_VERSION: '2025.03.8312'
   PDF: 'PDF.xml'
 
