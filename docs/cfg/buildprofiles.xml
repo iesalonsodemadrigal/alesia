@@ -22,8 +22,7 @@
     <build-profile instance="docs">
         <variables>
             <noindex-content>false</noindex-content>
-            <og-image>https://github.com/iesalonsodemadrigal/alesia/blob/main/assets/logos/alesia_logo_transp.png
-            </og-image>
+            <og-image>https://github.com/iesalonsodemadrigal/alesia/blob/main/assets/logos/alesia_logo_transp.png</og-image>
         </variables>
         <sitemap priority="0.35" change-frequency="monthly"/>
 
