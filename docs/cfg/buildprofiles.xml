@@ -5,6 +5,19 @@
     <variables>
 
     </variables>
+
+    <footer>
+        <social type="blog" href="https://aulapragmatica.es">IES Alonso de Madrigal Website</social>
+        <social type="twitter" href="https://twitter.com/iesalonsodemad1">IES Alonso de Madrigal en X/Twitter</social>
+        <social type="github" href="https://github.com/iesalonsodemadrigal/alesia">IES Alonso de Madrigal en GitHub</social>
+
+        <link href="https://aulapragmatica.es">Aula Pragmática</link>
+        <link href="mailto:info@aulapragmatica.es">Contacta</link>
+
+        <copyright>Contenido desarrollado por Chema</copyright>
+    </footer>
+
+
     <build-profile instance="docs">
         <variables>
             <noindex-content>false</noindex-content>
