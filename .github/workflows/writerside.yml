@@ -93,7 +93,7 @@ jobs:
 
       - name: Unzip artifact
         run: |
-          unzip -o UTF-8 -qq "artifacts/${{ needs.build.outputs.artifact }}" -d dir
+          unzip -oO UTF-8 -qq "artifacts/${{ needs.build.outputs.artifact }}" -d dir
           echo "Contenido de dir/"
           ls -l dir
 
