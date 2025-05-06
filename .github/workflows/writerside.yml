@@ -3,12 +3,10 @@ name: Build documentation
 on:
   push:
     branches: [ "main" ]
-  workflow_dispatch:
 
 permissions:
   contents: write
   id-token: write
-  pages: write
 
 env:
   INSTANCE: 'Writerside/doc'
@@ -94,8 +92,6 @@ jobs:
       - name: Unzip artifact
         run: |
           unzip -oO UTF-8 -qq "artifacts/${{ needs.build.outputs.artifact }}" -d dir
-          echo "Contenido de dir/"
-          ls -l dir
 
       - name: Push to static-pages branch
         run: |
@@ -106,14 +102,11 @@ jobs:
           git switch --orphan static-pages
 
           # Limpiar el directorio de trabajo eliminando sólo los ficheros
-          # find . -type f -exec rm {} \;
+          find . -not -path "dir/" -print0 | xargs -0 rm -r
 
           # Copiar contenido generado
           cp -fr dir/* .
-
-          echo "Contenido de dir/"
-          ls -l
-  
+          
           # Omitimos el proceso jekyll
           touch .nojekyll
   
