@@ -4,14 +4,13 @@
 
 <instance-profile id="doc"
                  name="Proyecto Alesia"
-                 start-page="index.md">
+                 start-page="introduction.md">
 
-    <toc-element topic="index.md"/>
-    <toc-element topic="starter-topic.md"/>
-    <toc-element topic="Estado-del-Arte.md"/>
-    <toc-element topic="Hipótesis.md"/>
-    <toc-element topic="Objetivos.md"/>
-    <toc-element topic="Metodología.md"/>
-    <toc-element topic="Resultado-y-Análisis.md"/>
-    <toc-element topic="Conclusiones.md"/>
+    <toc-element topic="introduction.md" toc-title="introduction"/>
+    <toc-element topic="estado-del-arte.md"/>
+    <toc-element topic="hipotesis.md"/>
+    <toc-element topic="objetivos.md"/>
+    <toc-element topic="metodologia.md"/>
+    <toc-element topic="resultado-y-analisis.md"/>
+    <toc-element topic="conclusiones.md"/>
 </instance-profile>
