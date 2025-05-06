@@ -93,14 +93,7 @@ jobs:
 
       - name: Unzip artifact
         run: |
-          unzip -O UTF-8 -qq "artifacts/${{ needs.build.outputs.artifact }}" -d dir
-
-      - name: Debug unzip output
-        run: |
-          echo "Contenido de artifacts/"
-          ls -l artifacts
-          echo "Descomprimiendo..."
-          unzip -O UTF-8 -qq "artifacts/${{ needs.build.outputs.artifact }}" -d dir
+          unzip -o UTF-8 -qq "artifacts/${{ needs.build.outputs.artifact }}" -d dir
           echo "Contenido de dir/"
           ls -l dir
 
@@ -117,7 +110,10 @@ jobs:
 
           # Copiar contenido generado
           cp -r dir/* .
-
+  
+          # Omitimos el proceso jekyll
+          touch .nojekyll
+  
           git add .
           git commit -m "Deploy Writerside documentation to static-pages"
           git push --force origin static-pages
