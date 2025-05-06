@@ -9,7 +9,8 @@
     <footer>
         <social type="blog" href="https://aulapragmatica.es">IES Alonso de Madrigal Website</social>
         <social type="twitter" href="https://twitter.com/iesalonsodemad1">IES Alonso de Madrigal en X/Twitter</social>
-        <social type="github" href="https://github.com/iesalonsodemadrigal/alesia">IES Alonso de Madrigal en GitHub</social>
+        <social type="github" href="https://github.com/iesalonsodemadrigal/alesia">IES Alonso de Madrigal en GitHub
+        </social>
 
         <link href="https://aulapragmatica.es">Aula Pragmática</link>
         <link href="mailto:info@aulapragmatica.es">Contacta</link>
@@ -19,8 +20,15 @@
 
 
     <build-profile instance="docs">
+        <sitemap priority="0.35" change-frequency="monthly"/>
         <variables>
             <noindex-content>false</noindex-content>
+            <product-web-url>https://www.jetbrains.com/help/writerside/</product-web-url>
+            <og-twitter>@onwriterside</og-twitter>
+            <og-image>https://resources.jetbrains.com/storage/products/writerside/img/meta/preview.png</og-image>
+            <images-prefix-override>https://my.company.com/images/</images-prefix-override>
         </variables>
+
     </build-profile>
+
 </buildprofiles>
