@@ -3,14 +3,17 @@ name: Build documentation
 on:
   push:
     branches: [ "main" ]
+  workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
   id-token: write
+  pages: write
 
 env:
   INSTANCE: 'Writerside/doc'
   DOCKER_VERSION: '2025.03.8312'
+  # IS_GROUP: 'true'  # Uncomment to build a group
 
 jobs:
   build:
@@ -73,11 +76,14 @@ jobs:
         uses: JetBrains/writerside-checker-action@v1
         with:
           instance: ${{ env.INSTANCE }}
-  deploy-static-page:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     needs: [ build, test ]
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout main branch
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
@@ -89,26 +95,16 @@ jobs:
           path: artifacts
 
       - name: Unzip artifact
-        run: |
-          unzip -oO UTF-8 -qq "artifacts/${{ needs.build.outputs.artifact }}" -d dir
+        run: unzip -O UTF-8 -qq "artifacts/${{ needs.build.outputs.artifact }}" -d dir
 
-      - name: Push to static-pages branch
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
 
-          # Cambiar a rama huérfana
-          git switch --orphan static-pages
+      - name: Package and upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dir
 
-          # Limpiar el directorio de trabajo eliminando sólo los ficheros
-          find . -not -path "dir/" -print0 | xargs -0 rm -r
-
-          # Copiar contenido generado
-          cp -fr dir/* .
-          
-          # Omitimos el proceso jekyll
-          touch .nojekyll
-  
-          git add .
-          git commit -m "Deploy Writerside documentation to static-pages"
-          git push --force origin static-pages
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
