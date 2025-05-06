@@ -111,8 +111,8 @@ jobs:
           # Limpiar el directorio de trabajo eliminando sólo los ficheros
           find . -type f -exec rm {} \;
 
-          # Mover el contenido generado al directorio .
-          mv  -v dir/.[!.]* .
+          # Copiar contenido generado
+          cp -r dir/* .
   
           # Omitimos el proceso jekyll
           touch .nojekyll
