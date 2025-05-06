@@ -6,7 +6,7 @@
                  name="Proyecto Alesia"
                  start-page="introduction.md">
 
-    <toc-element topic="introduction.md" toc-title="introduction"/>
+    <toc-element topic="introduction.md"/>
     <toc-element topic="estado-del-arte.md"/>
     <toc-element topic="hipotesis.md"/>
     <toc-element topic="objetivos.md"/>
