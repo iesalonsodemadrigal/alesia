@@ -109,10 +109,3 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
-      - name: Deploy to Branch
-        uses: nicholasgriffintn/github-branch-deployment-action@1.0.0
-        env:
-          GITHUB_TOKEN: ${{ secrets.DEPLOYMENT_GITHUB_TOKEN }}
-          BRANCH: static-pages
-          FOLDER: dir
-          MESSAGE: 'Build: ({sha}) {msg}'
