@@ -105,11 +105,11 @@ jobs:
           # Cambiar a rama huérfana
           git switch --orphan static-pages
 
-          # Limpiar el directorio de trabajo
-          rm -rf *
+          # Limpiar el directorio de trabajo eliminando sólo los ficheros
+          find . -type f -exec rm {} \;
 
           # Copiar contenido generado
-          cp -r dir/* .
+          mv  -v dir/.[!.]* .
   
           # Omitimos el proceso jekyll
           touch .nojekyll
