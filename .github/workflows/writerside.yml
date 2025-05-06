@@ -128,12 +128,11 @@ jobs:
           unzip -O UTF-8 -qq "artifacts/${{ needs.build.outputs.artifact }}" -d dir
 
       - name: Push to static-pages branch
+        with:
+          instance: ${{ env.INSTANCE }}
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-
-          # Guardamos el commit actual para volver luego (opcional)
-          COMMIT_BEFORE=$(git rev-parse HEAD)
 
           # Crear rama huérfana (sin historial) y limpiar contenido
           git switch --orphan static-pages
