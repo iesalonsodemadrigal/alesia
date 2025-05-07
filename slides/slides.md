@@ -41,9 +41,9 @@ precisión, para asegurar una experiencia fluida y en tiempo real.
 
 Ya tenemos el mensaje en texto… pero no basta con traducir palabra por palabra.
 
-La Lengua de Signos no es una traducción literal del español. Tiene su propio orden, sus propias reglas. Por ejemplo, no
-se dice 'Hola, ¿cómo estáis hoy? espero que te encuentres bien.', sino algo como 'Hola. Tu como hoy yo esperar tu
-bien.'.
+La Lengua de Signos tiene sus propias reglas gramaticales. 
+Por ejemplo, no se dice 'Hola, ¿cómo estáis hoy? espero que te encuentres bien.', sino algo como 'Hola. Tu como hoy yo esperar tu
+bien.
 
 Para resolver esto, entrenamos un modelo de Inteligencia Artificial capaz de transformar la frase original al formato
 correcto para que pueda ser entendida en lengua de signos.
