@@ -50,15 +50,14 @@ correcto para que pueda ser entendida en lengua de signos.
 
 # Slide 7:
 
-Aquí empieza la magia. Esta es probablemente la parte más compleja del proyecto: transformar (codificar) los
+Aquí empieza la magia. Esta es probablemente la parte más compleja del proyecto: transformar los
 movimientos humanos en datos que la máquina pueda entender.
 
-Hemos desarrollado un script capaz de analizar vídeos del diccionario de lengua de signos y extraer las coordenadas en
-3D
-de cada parte del cuerpo. -- implicada en la interpretación.--
+Hemos desarrollado un algoritmo capaz de analizar vídeos del diccionario de lengua de signos y extraer las coordenadas
+en 3D de cada parte del cuerpo.
 
 Con esta información, creamos una base de datos que nos permite buscar una palabra y obtener su traducción en
-coordenadas. ----Es como si le estuviéramos enseñando al avatar el abecedario de su cuerpo----.
+coordenadas.
 
 # Slide 8:
 
@@ -89,14 +88,13 @@ mayor realismo y claridad.
 
 En este vídeo podéis ver esa evolución: desde nuestras primeras pruebas hasta lo que hemos conseguido hoy.
 
-Cada segundo representa un pequeño gran avance (un vídeo de apenas 10 segundos pero que a nosotros nos ha llevado un
-curso)
+Un vídeo de apenas 10 segundos pero que a nosotros nos ha llevado un curso.
 
 # Slide 11:
 
 Aquí podéis ver la comparación directa.
 A la izquierda, una persona interpretando la palabra 'hola' en Lengua de Signos.
-A la derecha, nuestro avatar 3D reproduciendo ese mismo signo a partir de coordenadas generadas automáticamente.
+A la derecha, Alesia reproduciendo ese mismo signo a partir de coordenadas generadas automáticamente.
 
 Este es nuestro propósito: convertir voz en signos reales, de forma precisa y accesible.
 
@@ -110,8 +108,8 @@ Como mejora destacada, señalan la falta de expresión facial, algo fundamental 
 Una mejora que vemos viable desarrollar ya que la falta de expresión de Alesia se debe a que los vídeos que usamos como
 base eran solo de palabras, sin expresión.
 
-Esta fase representa el enfoque cualitativo de nuestra investigación: recoger opiniones directas de intérpretes en
-lengua de signos tras ver a Alesia interpretar frases.
+Este cuestionario representa el enfoque cualitativo de nuestra investigación. (: recoger opiniones directas de intérpretes
+en lengua de signos) (tras ver a Alesia interpretar frases).
 
 # Slide 13:
 
@@ -123,7 +121,7 @@ Hemos visto que la expresión facial es una parte clave que aún debemos incorpo
 La Inteligencia Artificial ha sido fundamental en cada fase del proyecto: sin ella, esto no sería posible.
 
 Y lo más importante: Alesia no es solo una herramienta tecnológica.
-Es una herramienta para la igualdad de oportunidades.
+Es una herramienta para la igualdad de oportunidades (inclusión social).
 
 # Slide 14:
 
@@ -140,6 +138,7 @@ Y eso nos anima a seguir investigando. Hoy como alumnos, pero mañana como desar
 tecnología debe estar al servicio de la inclusión de todas las personas.
 
 # Slide 15:
+
 Muchas gracias (representación signo 'gracias')
 
 # Otras ideas:
