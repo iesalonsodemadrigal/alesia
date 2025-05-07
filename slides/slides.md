@@ -82,17 +82,13 @@ Comenzamos con algo sencillo: una figura en 2D. Pero sabíamos que eso no era su
 Así que seguimos mejorando, iterando, y finalmente dimos el salto a un entorno en 3D donde cada signo cobra vida con
 mayor realismo y claridad.
 
-En este vídeo podéis ver esa evolución: desde nuestras primeras pruebas hasta lo que hemos conseguido hoy.
-
 Un vídeo de apenas 10 segundos pero que a nosotros nos ha llevado un curso.
 
 # Slide 11 (David)
 
-Aquí podéis ver la comparación directa.
+Aquí podéis ver la precisión y el realismo de Alesia.
 A la izquierda, una persona interpretando la palabra 'hola' en Lengua de Signos.
-A la derecha, Alesia reproduciendo ese mismo signo a partir de coordenadas generadas automáticamente.
-
-Este es nuestro propósito: convertir voz en signos reales, de forma precisa y accesible.
+A la derecha, Alesia reproduciendo ese mismo signo a partir de las coordenadas generadas.
 
 # Slide 12 (Ian)
 
