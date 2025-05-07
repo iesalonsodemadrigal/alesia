@@ -53,7 +53,8 @@ correcto para que pueda ser entendida en lengua de signos.
 Aquí empieza la magia. Esta es probablemente la parte más compleja del proyecto: transformar (codificar) los
 movimientos humanos en datos que la máquina pueda entender.
 
-Hemos desarrollado un script capaz de analizar vídeos del diccionario de lengua de signos y extraer las coordenadas en 3D
+Hemos desarrollado un script capaz de analizar vídeos del diccionario de lengua de signos y extraer las coordenadas en
+3D
 de cada parte del cuerpo. -- implicada en la interpretación.--
 
 Con esta información, creamos una base de datos que nos permite buscar una palabra y obtener su traducción en
@@ -61,13 +62,85 @@ coordenadas. ----Es como si le estuviéramos enseñando al avatar el abecedario 
 
 # Slide 8:
 
+-------- Relacionada con Slide 7: Se ve un vídeo con las coordenadas
+
 # Slide 9:
+
+Esta es la parte final del proceso. Os resumo:
+Primero, recogemos la voz y la convertimos en texto.
+Después, adaptamos esa frase al orden gramatical de la lengua de signos.
+A continuación, buscamos las coordenadas en nuestra base de datos para cada palabra.
+Y por último, le pasamos esos datos a nuestro avatar 3D, Alesia.
+
+El resultado es una representación visual del mensaje de voz ahora accesible en Lengua de Signos.
+
+La validación de estas fases representan la parte cuantitativa de nuestro enfoque mixto de investigación.
 
 # Slide 10:
 
-- La validación de estas fases representan la parte cuantitativa de nuestro enfoque mixto de investigación.
+El camino hasta aquí no ha sido fácil. Hemos pasado muchas horas estudiando la lengua de signos, analizando vídeos,
+desarrollando algoritmos para transformar coordenadas.
+
+Comenzamos con algo sencillo: una figura en 2D. Pero sabíamos que eso no era suficiente (por el feedback dado por los
+intérpretes).
+
+Así que seguimos mejorando, iterando, y finalmente dimos el salto a un entorno en 3D donde cada signo cobra vida con
+mayor realismo y claridad.
+
+En este vídeo podéis ver esa evolución: desde nuestras primeras pruebas hasta lo que hemos conseguido hoy.
+
+Cada segundo representa un pequeño gran avance (un vídeo de apenas 10 segundos pero que a nosotros nos ha llevado un
+curso)
 
 # Slide 11:
+
+Aquí podéis ver la comparación directa.
+A la izquierda, una persona interpretando la palabra 'hola' en Lengua de Signos.
+A la derecha, nuestro avatar 3D reproduciendo ese mismo signo a partir de coordenadas generadas automáticamente.
+
+Este es nuestro propósito: convertir voz en signos reales, de forma precisa y accesible.
+
+# Slide 12:
+
+Para evaluar nuestro MVP, diseñamos un cuestionario propio.
+Nos basamos en cuestionarios ya validadas, pero adaptadas a las características específicas de nuestro proyecto.
+
+Estamos muy orgullosos de los resultados. La valoración media ha sido positiva.
+Como mejora destacada, señalan la falta de expresión facial, algo fundamental en lengua de signos.
+Una mejora que vemos viable desarrollar ya que la falta de expresión de Alesia se debe a que los vídeos que usamos como
+base eran solo de palabras, sin expresión.
+
+Esta fase representa el enfoque cualitativo de nuestra investigación: recoger opiniones directas de intérpretes en
+lengua de signos tras ver a Alesia interpretar frases.
+
+# Slide 13:
+
+Nuestra investigación demuestra que sí es posible desarrollar una aplicación capaz de traducir la lengua hablada a la
+Lengua de Signos en tiempo real.
+
+Hemos visto que la expresión facial es una parte clave que aún debemos incorporar, pero ya sabemos como hacerlo.
+
+La Inteligencia Artificial ha sido fundamental en cada fase del proyecto: sin ella, esto no sería posible.
+
+Y lo más importante: Alesia no es solo una herramienta tecnológica.
+Es una herramienta para la igualdad de oportunidades.
+
+# Slide 14:
+
+Queremos terminar compartiendo algo que nos hace especial ilusión.
+
+En febrero de 2025, NVIDIA presentó un proyecto muy similar al nuestro: una herramienta para traducir la lengua hablada
+a la lengua de signos.
+
+Nosotros empezamos en octubre de 2024, con menos recursos pero con la misma visión.
+
+Ver que una gran empresa apuesta por lo mismo que nosotros nos confirma algo: vamos por el buen camino.
+
+Y eso nos anima a seguir investigando. Hoy como alumnos, pero mañana como desarrolladores, creemos firmemente que la
+tecnología debe estar al servicio de la inclusión de todas las personas.
+
+# Slide 15:
+Muchas gracias (representación signo 'gracias')
 
 # Otras ideas:
 
