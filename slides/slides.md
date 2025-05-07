@@ -11,9 +11,6 @@ entiende.
 Esta es la realidad diaria de miles de personas con discapacidad auditiva que utilizan la Lengua de Signos como medio de
 comunicación.
 
-Personas que se enfrentan a barreras de comunicación constantes que limitan su acceso a la educación, la salud o el
-empleo.
-
 # Slide 3: Alesia (Ian)
 
 Frente al silencio, nace la innovación.
@@ -25,8 +22,8 @@ traducirla automáticamente a Lengua de Signos Española.
 
 El proyecto es multiplataforma, se puede usar en un móvil, un reloj e incluso en unas gafas inteligentes.
 
-Utilizamos Inteligencia Artificial para convertir voz en texto, reorganizar el mensaje con la gramática de la lengua de
-signos y representar la interpretación en un avatar 3D llamada Alesia.
+Utilizamos Inteligencia Artificial para convertir voz en texto, aplicar la gramática de la lengua de
+signos e interpretarlos con un avatar 3D llamado Alesia.
 
 Vamos ahora a explicar las cuatro fases que forman el desarrollo experimental.
 
@@ -53,11 +50,10 @@ correcto para que pueda ser entendida en lengua de signos.
 Aquí empieza la magia. Esta es probablemente la parte más compleja del proyecto: transformar los
 movimientos humanos en datos que la máquina pueda entender.
 
-Hemos desarrollado un algoritmo capaz de analizar vídeos del diccionario de lengua de signos y extraer las coordenadas
-en 3D de cada parte del cuerpo.
+Hemos desarrollado un algoritmo capaz de analizar vídeos y extraer las coordenadas en 3D de cada parte del cuerpo.
 
-Con esta información, creamos una base de datos que nos permite buscar una palabra y obtener su traducción en
-coordenadas.
+Con esta información, creamos una base de datos que nos permite buscar una palabra y obtener las coordenadas en tiempo
+real.
 
 # Slide 8 (Ales)
 
@@ -81,8 +77,8 @@ Un vídeo de apenas 10 segundos pero que a nosotros nos ha llevado un curso.
 # Slide 11 (David)
 
 Aquí podéis ver la precisión y el realismo de Alesia.
-A la izquierda, una persona interpretando la palabra 'hola' en Lengua de Signos.
-A la derecha, Alesia reproduciendo ese mismo signo a partir de las coordenadas generadas.
+A la izquierda, una persona interpretando la palabra 'hola'.
+A la derecha, Alesia interpretando esa misma palabra.
 
 # Slide 12 (Ian)
 
