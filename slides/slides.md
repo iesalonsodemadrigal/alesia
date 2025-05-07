@@ -1,7 +1,7 @@
 # Slide 1: Presentación
 ---
 
-# Slide 2: Problema
+# Slide 2: Problema (Ian)
 
 Te despiertas, desayunas y vas a clase...
 
@@ -14,14 +14,14 @@ comunicación.
 Personas que se enfrentan a barreras de comunicación constantes que limitan su acceso a la educación, la salud o el
 empleo.
 
-# Slide 3: Alesia
+# Slide 3: Alesia (Ian)
 
 Frente al silencio, nace la innovación.
 
 Alesia es nuestro proyecto de investigación aplicada: una aplicación capaz de escuchar una conversación, entenderla y
 traducirla automáticamente a Lengua de Signos Española.
 
-# Slide 4: Estructura app
+# Slide 4: Estructura app (Ian)
 
 El proyecto es multiplataforma, se puede usar en un móvil, un reloj e incluso en unas gafas inteligentes.
 
@@ -30,14 +30,14 @@ signos y representar la interpretación en un avatar 3D llamada Alesia.
 
 Vamos ahora a explicar las cuatro fases que forman el desarrollo experimental.
 
-# Slide 5:
+# Slide 5 (David)
 
 Para que Alesia pueda interpretar, lo primero es escuchar y entender lo que se dice.
 
 Analizamos diferentes herramientas de transcripción automática y seleccionamos la más adecuada, equilibrando velocidad y
 precisión, para asegurar una experiencia fluida y en tiempo real.
 
-# Slide 6:
+# Slide 6 (David)
 
 Ya tenemos el mensaje en texto… pero no basta con traducir palabra por palabra.
 
@@ -48,7 +48,7 @@ bien.'.
 Para resolver esto, entrenamos un modelo de Inteligencia Artificial capaz de transformar la frase original al formato
 correcto para que pueda ser entendida en lengua de signos.
 
-# Slide 7:
+# Slide 7 (Ales)
 
 Aquí empieza la magia. Esta es probablemente la parte más compleja del proyecto: transformar los
 movimientos humanos en datos que la máquina pueda entender.
@@ -59,29 +59,25 @@ en 3D de cada parte del cuerpo.
 Con esta información, creamos una base de datos que nos permite buscar una palabra y obtener su traducción en
 coordenadas.
 
-# Slide 8:
+# Slide 8 (Ales)
 
 -------- Relacionada con Slide 7: Se ve un vídeo con las coordenadas
 
-# Slide 9:
+# Slide 9 (David)
 
-Esta es la parte final del proceso. Os resumo:
-Primero, recogemos la voz y la convertimos en texto.
-Después, adaptamos esa frase al orden gramatical de la lengua de signos.
-A continuación, buscamos las coordenadas en nuestra base de datos para cada palabra.
-Y por último, le pasamos esos datos a nuestro avatar 3D, Alesia.
+Esta es la parte final del proceso. Obtenemos las coordenadas de nuestra base de datos y pasamos esta información a
+nuestro avatar 3D: Alesia.
 
 El resultado es una representación visual del mensaje de voz ahora accesible en Lengua de Signos.
 
 La validación de estas fases representan la parte cuantitativa de nuestro enfoque mixto de investigación.
 
-# Slide 10:
+# Slide 10 (David)
 
 El camino hasta aquí no ha sido fácil. Hemos pasado muchas horas estudiando la lengua de signos, analizando vídeos,
 desarrollando algoritmos para transformar coordenadas.
 
-Comenzamos con algo sencillo: una figura en 2D. Pero sabíamos que eso no era suficiente (por el feedback dado por los
-intérpretes).
+Comenzamos con algo sencillo: una figura en 2D. Pero sabíamos que eso no era suficiente.
 
 Así que seguimos mejorando, iterando, y finalmente dimos el salto a un entorno en 3D donde cada signo cobra vida con
 mayor realismo y claridad.
@@ -90,7 +86,7 @@ En este vídeo podéis ver esa evolución: desde nuestras primeras pruebas hasta
 
 Un vídeo de apenas 10 segundos pero que a nosotros nos ha llevado un curso.
 
-# Slide 11:
+# Slide 11 (David)
 
 Aquí podéis ver la comparación directa.
 A la izquierda, una persona interpretando la palabra 'hola' en Lengua de Signos.
@@ -98,7 +94,7 @@ A la derecha, Alesia reproduciendo ese mismo signo a partir de coordenadas gener
 
 Este es nuestro propósito: convertir voz en signos reales, de forma precisa y accesible.
 
-# Slide 12:
+# Slide 12 (Ian)
 
 Para evaluar nuestro MVP, diseñamos un cuestionario propio.
 Nos basamos en cuestionarios ya validadas, pero adaptadas a las características específicas de nuestro proyecto.
@@ -108,10 +104,11 @@ Como mejora destacada, señalan la falta de expresión facial, algo fundamental 
 Una mejora que vemos viable desarrollar ya que la falta de expresión de Alesia se debe a que los vídeos que usamos como
 base eran solo de palabras, sin expresión.
 
-Este cuestionario representa el enfoque cualitativo de nuestra investigación. (: recoger opiniones directas de intérpretes
+Este cuestionario representa el enfoque cualitativo de nuestra investigación. (: recoger opiniones directas de
+intérpretes
 en lengua de signos) (tras ver a Alesia interpretar frases).
 
-# Slide 13:
+# Slide 13 (Ales)
 
 Nuestra investigación demuestra que sí es posible desarrollar una aplicación capaz de traducir la lengua hablada a la
 Lengua de Signos en tiempo real.
@@ -123,7 +120,7 @@ La Inteligencia Artificial ha sido fundamental en cada fase del proyecto: sin el
 Y lo más importante: Alesia no es solo una herramienta tecnológica.
 Es una herramienta para la igualdad de oportunidades (inclusión social).
 
-# Slide 14:
+# Slide 14 (Ales)
 
 Queremos terminar compartiendo algo que nos hace especial ilusión.
 
