@@ -20,7 +20,7 @@ traducirla automáticamente a Lengua de Signos Española.
 
 # Slide 4: Estructura app (Ian)
 
-Aquí podéis ver a nuestro avatar 3D a la que llamamos Alesia. Es multiplataforma: se puede usar en un móvil, un reloj e
+Aquí podéis ver Alesia. Es multiplataforma: se puede usar en un móvil, un reloj e
 incluso en unas gafas inteligentes.
 
 Al otro lado representamos visualmente los pasos que realiza internamente.
@@ -82,10 +82,6 @@ Un vídeo de apenas 10 segundos pero que a nosotros nos ha llevado un curso.
 
 Aquí podéis ver la precisión y el realismo de Alesia.
 
-A la izquierda, una persona interpretando la palabra 'hola'.
-
-A la derecha, Alesia interpretando esa misma palabra.
-
 # Slide 12 (Ian)
 
 Para el enfoque cualitativo de nuestra investigación, diseñamos un cuestionario propio.
@@ -111,7 +107,7 @@ Es una herramienta para la igualdad de oportunidades.
 
 # Slide 14 (Ales)
 
-Nos hace mucha ilusión ver que en febrero de 2025 NVIDIA presentó un proyecto muy similar al nuestro.
+Para acabar, nos hace mucha ilusión ver que en febrero de 2025 NVIDIA presentó un proyecto muy similar al nuestro.
 
 Empezamos en octubre de 2024, con menos recursos pero la misma visión.
 
