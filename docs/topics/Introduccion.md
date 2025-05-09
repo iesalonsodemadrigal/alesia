@@ -48,7 +48,7 @@ Para lograr una representación visual comprensible, se ha empleado el motor gr�
 desarrollo de videojuegos y simulaciones. Unity permite construir avatares animados que reproducen las coordenadas
 obtenidas por MediaPipe, ofreciendo una experiencia comunicativa visual realista y accesible.
 
-### Estado del Arte
+## Estado del Arte
 
 Existen iniciativas previas orientadas a la traducción entre lengua oral y lengua de signos, particularmente en ASL (
 American Sign Language), como SignAll o HandTalk. Sin embargo, en el caso del español y la LSE, las investigaciones y
