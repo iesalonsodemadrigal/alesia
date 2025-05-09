@@ -7,9 +7,9 @@
 **Profesor:** Jose María Pérez Ramos   
 **Alumnos:**
 
-- Alessandro Jherik Paucar Enrriquez
-- David Andrés Lozano Sánchez
-- Ian Gabriel Mendoza Portillo
+* Alessandro Jherik Paucar Enrriquez
+* David Andrés Lozano Sánchez
+* Ian Gabriel Mendoza Portillo
 
 Este trabajo presenta los resultados de una investigación aplicada desarrollada por estudiantes del Ciclo Formativo de
 Grado Superior en Desarrollo de Aplicaciones Multiplataforma, cuyo objetivo ha sido diseñar un sistema de traducción
