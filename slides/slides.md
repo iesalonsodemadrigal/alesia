@@ -3,25 +3,31 @@
 
 # Slide 2: Problema (Ian)
 
-Te despiertas, desayunas y vas a clase...
+¿Alguna vez os habéis puesto en el lugar de un compañero con discapacidad auditiva?
 
-Intentas comunicarte con tu profesor, realizar actividades en equipo, pedir ayuda a un compañero... pero nadie te
-entiende.
+Imaginad situaciones tan cotidianas en la clase como hablar con un profesor o pedir ayuda a un compañero.
 
-Esta es la realidad diaria de miles de personas con discapacidad auditiva que utilizan la Lengua de Signos como medio de
-comunicación.
+Sabemos que en el aula puede haber un intérprete...
+
+Pero, ¿qué pasa entre clase y clase? ¿En el recreo? ¿Cuando quedamos para hacer un trabajo en grupo?
+
+Son momentos clave para conocernos mejor.
+
+Y ahí, muchas veces, la comunicación se rompe.
 
 # Slide 3: Alesia (Ian)
 
-Frente al silencio, nace la innovación.
+¿Puede la innovación tecnológica actual, como la Inteligencia Artificial, ofrecer nuevas soluciones a este problema?
+Esa es la pregunta que nos impulsó a iniciar esta investigación.
 
-Alesia es nuestro proyecto de investigación aplicada: una aplicación capaz de escuchar una conversación, entenderla y
-traducirla automáticamente a Lengua de Signos Española.
+Y así nació ALESIA:
+Nuestro proyecto de investigación aplicada.
+Un MVP (aplicación) capaz de escuchar una conversación, comprenderla y traducirla automáticamente a Lengua de Signos
+Española.
 
 # Slide 4: Estructura app (Ian)
 
-Aquí podéis ver Alesia. Es multiplataforma: se puede usar en un móvil, un reloj e
-incluso en unas gafas inteligentes.
+Aquí podéis ver a Alesia. Es multiplataforma: se puede usar en un móvil, un reloj e incluso en unas gafas inteligentes.
 
 Al otro lado representamos visualmente los pasos que realiza internamente.
 
