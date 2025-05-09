@@ -22,7 +22,8 @@ Esa es la pregunta que nos impulsó a iniciar esta investigación.
 
 Y así nació ALESIA:
 Nuestro proyecto de investigación aplicada.  
-Una aplicación capaz de escuchar una conversación, comprenderla y traducirla a Lengua de Signos Española.
+
+Una aplicación que interpreta conversaciones a Lengua de Signos Española mediante un avatar 3D.
 
 # Slide 4: Estructura app (Ian)
 
