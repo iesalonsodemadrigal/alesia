@@ -38,12 +38,12 @@ Vamos ahora a explicar las cuatro fases que forman el desarrollo experimental.
 
 # Slide 5 (David)
 
-Para que Alesia pueda interpretar, lo primero es escuchar y entender lo que se dice.
+El primer paso es transcribir el mensaje de voz a texto.
 
-Analizamos diferentes herramientas de transcripción automática y seleccionamos la más adecuada, equilibrando velocidad y
-precisión, para asegurar una experiencia fluida y en tiempo real.
+Probamos distintas herramientas de transcripción y elegimos la más rápida y precisa para conseguir una conversación
+fluida.
 
-En el primer cuadro de la aplicación podéis ver el texto del mensaje de voz.
+En el primer cuadro de la aplicación simulamos la transcripción de un mensaje.
 
 # Slide 6 (David)
 
