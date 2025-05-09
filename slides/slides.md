@@ -117,7 +117,7 @@ Hoy como alumnos, mañana como desarrolladores, creemos que la tecnología debe 
 
 # Slide 15:
 
-Muchas gracias (representación signo 'gracias')
+Muchas gracias.
 
 # Otras ideas:
 
