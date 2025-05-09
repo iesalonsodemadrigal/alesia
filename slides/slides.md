@@ -60,14 +60,11 @@ En el segundo cuadro de texto podéis ver cómo queda el mensaje tras aplicar la
 Aquí empieza la magia. Esta es probablemente la parte más compleja del proyecto: transformar los movimientos humanos en
 datos que la máquina pueda entender.
 
-Hemos desarrollado un algoritmo capaz de analizar vídeos y extraer las coordenadas en 3D de cada parte del cuerpo.
-
-Con esta información, creamos una base de datos que nos permite buscar una palabra y obtener las coordenadas en tiempo
-real.
-
 # Slide 8 (Ales)
 
--------- Relacionada con Slide 7: Se ve un vídeo con las coordenadas
+Hemos desarrollado un algoritmo capaz de analizar vídeos y extraer las coordenadas en 3D de cada parte del cuerpo.
+Con esta información, creamos una base de datos que nos permite buscar una palabra y obtener las coordenadas en tiempo
+real.
 
 # Slide 9 (David)
 
@@ -79,8 +76,8 @@ La validación de estas fases representan la parte cuantitativa de nuestro enfoq
 
 # Slide 10 (David)
 
-El camino hasta aquí no ha sido fácil. Hemos pasado muchas horas estudiando la lengua de signos, analizando vídeos,
-desarrollando algoritmos para transformar coordenadas.
+El camino hasta aquí no ha sido fácil. Hemos pasado muchas horas conociendo la gramática de la lengua de signos,
+analizando vídeos o desarrollando algoritmos para transformar coordenadas.
 
 Un vídeo de apenas 10 segundos pero que a nosotros nos ha llevado un curso.
 
