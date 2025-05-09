@@ -21,8 +21,8 @@ Y ahí, la comunicación se rompe.
 Esa es la pregunta que nos impulsó a iniciar esta investigación.
 
 Y así nació ALESIA:
-Nuestro proyecto de investigación aplicada.
-Un MVP (aplicación) capaz de escuchar una conversación, comprenderla y traducirla a Lengua de Signos Española.
+Nuestro proyecto de investigación aplicada.  
+Una aplicación capaz de escuchar una conversación, comprenderla y traducirla a Lengua de Signos Española.
 
 # Slide 4: Estructura app (Ian)
 
@@ -99,16 +99,13 @@ Es una mejora viable, ya que la falta de expresión se debe a que los vídeos an
 
 # Slide 13 (Ales)
 
-Nuestra investigación demuestra que sí es posible desarrollar una aplicación capaz de traducir la lengua hablada a la
-Lengua de Signos en tiempo real.
+Como conclusiones destacadas:
 
-Hemos visto que la expresión facial es una parte clave que aún debemos incorporar, pero ya sabemos como hacerlo.
-
-La Inteligencia Artificial ha sido fundamental en cada fase del proyecto: sin ella, esto no sería posible.
-
-Y lo más importante: Alesia no es solo una herramienta tecnológica.
-
-Es una herramienta para la igualdad de oportunidades.
+- Es posible desarrollar una aplicación capaz de traducir la lengua hablada a la Lengua de Signos en tiempo real.
+- Hemos visto que la expresión facial es una parte clave que aún debemos incorporar.
+- La Inteligencia Artificial ha sido fundamental en cada fase del proyecto: sin ella, esto no sería posible.
+- Y lo más importante: Alesia no es solo una herramienta tecnológica. Es una herramienta para la igualdad de
+  oportunidades.
 
 # Slide 14 (Ales)
 
