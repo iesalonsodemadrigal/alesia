@@ -5,15 +5,15 @@
 
 ¿Alguna vez os habéis puesto en el lugar de un compañero con discapacidad auditiva?
 
-Imaginad situaciones tan cotidianas en la clase como hablar con un profesor o pedir ayuda a un compañero.
+Imaginad situaciones tan cotidianas en clase como hablar con un profesor o pedir ayuda a un compañero.
 
 Sabemos que en el aula puede haber un intérprete...
 
-Pero, ¿qué pasa entre clase y clase? ¿En el recreo? ¿Cuando quedamos para hacer un trabajo en grupo?
+Pero, ¿qué pasa entre clase y clase? ¿y en el recreo? ¿y cuando quedamos para hacer un trabajo en grupo?
 
 Son momentos clave para conocernos mejor.
 
-Y ahí, muchas veces, la comunicación se rompe.
+Y ahí, la comunicación se rompe.
 
 # Slide 3: Alesia (Ian)
 
@@ -22,8 +22,7 @@ Esa es la pregunta que nos impulsó a iniciar esta investigación.
 
 Y así nació ALESIA:
 Nuestro proyecto de investigación aplicada.
-Un MVP (aplicación) capaz de escuchar una conversación, comprenderla y traducirla automáticamente a Lengua de Signos
-Española.
+Un MVP (aplicación) capaz de escuchar una conversación, comprenderla y traducirla a Lengua de Signos Española.
 
 # Slide 4: Estructura app (Ian)
 
