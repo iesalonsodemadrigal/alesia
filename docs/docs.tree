@@ -8,10 +8,11 @@
 
     <toc-element topic="resumen.md"/>
     <toc-element topic="Introduccion.md"/>
-    <toc-element topic="estado-del-arte.md"/>
     <toc-element topic="hipotesis.md"/>
     <toc-element topic="objetivos.md"/>
-    <toc-element topic="metodologia.md"/>
+    <toc-element topic="metodologia.md">
+        <toc-element topic="Fase-I-Conversion-de-voz-a-texto.md"/>
+    </toc-element>
     <toc-element topic="resultado-y-analisis.md"/>
     <toc-element topic="conclusiones.md"/>
 </instance-profile>

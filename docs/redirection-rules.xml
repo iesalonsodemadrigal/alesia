@@ -6,4 +6,8 @@
         <accepts>page.html</accepts>
     </rule>
     -->
+    <rule id="3474ddde">
+        <description>Created after removal of "Marco teórico" from Alesia</description>
+        <accepts>estado-del-arte.html</accepts>
+    </rule>
 </rules>
