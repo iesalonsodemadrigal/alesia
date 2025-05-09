@@ -49,7 +49,7 @@ Se han analizado múltiples opciones de transcripción, las cuales se pueden div
 Cada modelo ha sido probado en el mismo dispositivo para garantizar una comparación justa en términos de
 rendimiento.
 
-![Comparativa de modelos testeados](Comparativa de modelos testeados.png)
+![Comparativa de modelos testeados](modelos_testeados.png)
 
 ## Conclusión de la comparación
 
@@ -91,7 +91,7 @@ Se realizaron pruebas con audios de diferentes duraciones para evaluar el tiempo
 la transcripción (WER, Word Error Rate). A continuación, se presenta un resumen de los tiempos de transcripción y
 precisión obtenidos con los modelos más relevantes.
 
-![Datos sobre la transcripción probada](Datos sobre la transcripción probada.png)
+![Datos sobre la transcripción probada](transcripcion_probada.png)
 
 ## Selección de la Herramienta para la implementación del proyecto
 
