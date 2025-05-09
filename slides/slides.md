@@ -21,7 +21,7 @@ Y ahí, la comunicación se rompe.
 Esa es la pregunta que nos impulsó a iniciar esta investigación.
 
 Y así nació ALESIA:
-Nuestro proyecto de investigación aplicada.  
+Nuestro proyecto de investigación aplicada.
 
 Una aplicación que interpreta conversaciones a Lengua de Signos Española mediante un avatar 3D.
 
@@ -102,17 +102,17 @@ Es una mejora viable, ya que la falta de expresión se debe a que los vídeos an
 
 Como conclusiones destacadas:
 
-- Es posible desarrollar una aplicación capaz de traducir la lengua hablada a la Lengua de Signos en tiempo real.
-- Hemos visto que la expresión facial es una parte clave que aún debemos incorporar.
-- La Inteligencia Artificial ha sido fundamental en cada fase del proyecto: sin ella, esto no sería posible.
+- Creemos viable el desarrollo de un producto final.
+- Hemos visto que la expresión facial es una parte clave.
+- La Inteligencia Artificial ha sido fundamental en el proyecto.
 - Y lo más importante: Alesia no es solo una herramienta tecnológica. Es una herramienta para la igualdad de
   oportunidades.
 
 # Slide 14 (Ales)
 
-Para acabar, nos hace mucha ilusión ver que en febrero de 2025 NVIDIA presentó un proyecto muy similar al nuestro.
+Para acabar, nos hace ilusión ver que en febrero de 2025 NVIDIA presentó un proyecto muy similar.
 
-Empezamos en octubre de 2024, con menos recursos pero la misma visión.
+Nosotros empezamos en octubre de 2024, con menos recursos pero la misma visión.
 
 Eso nos confirma que vamos por buen camino y nos anima a seguir investigando.
 
