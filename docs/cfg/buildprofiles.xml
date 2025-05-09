@@ -22,9 +22,13 @@
     <build-profile instance="docs">
         <variables>
             <noindex-content>false</noindex-content>
+            <header-logo>alesia_logo_white_bg.png</header-logo>
+            <product-web-url>https://alesia.iesalonsodemadrigal.es</product-web-url>
+            <download-title>Ir a GitHub</download-title>
+            <download-page>https://github.com/iesalonsodemadrigal/alesia</download-page>
+            <showDownloadButton>true</showDownloadButton>
             <contribute-url>https://github.com/iesalonsodemadrigal/alesia</contribute-url>
             <custom-favicons>favicon-16x16.png,favicon-32x32.png</custom-favicons>
-            <header-logo>alesia_logo_transp.png</header-logo>
         </variables>
         <sitemap priority="0.35" change-frequency="monthly"/>
     </build-profile>

@@ -4,9 +4,10 @@
 
 <instance-profile id="docs"
                  name="Alesia"
-                 start-page="introduccion.md">
+                 start-page="resumen.md">
 
-    <toc-element topic="introduccion.md"/>
+    <toc-element topic="resumen.md"/>
+    <toc-element topic="Introduccion.md"/>
     <toc-element topic="estado-del-arte.md"/>
     <toc-element topic="hipotesis.md"/>
     <toc-element topic="objetivos.md"/>
