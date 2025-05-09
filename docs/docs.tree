@@ -12,7 +12,9 @@
     <toc-element topic="objetivos.md"/>
     <toc-element topic="metodologia.md">
         <toc-element topic="Fase-I-Conversion-de-voz-a-texto.md"/>
+        <toc-element topic="Fase-II-Conversión-de-la-gramática-española-a-la-gramática-de-lengua-de-signos-español.md"/>
     </toc-element>
     <toc-element topic="resultado-y-analisis.md"/>
     <toc-element topic="conclusiones.md"/>
+    <toc-element topic="Bibliografia.md"/>
 </instance-profile>
