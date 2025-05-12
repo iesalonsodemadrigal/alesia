@@ -51,7 +51,7 @@ Debido a estas limitaciones, hemos decidido descartar Blender como solución pri
 preprocesar y generar animaciones, no cumple con los requisitos de nuestro proyecto, que exige una integración fluida
 con un entorno de ejecución en tiempo real.
 
-## Godot Engine
+### Godot Engine
 
 Tras analizar la documentación de Godot Engine, identificamos que una de sus principales ventajas es su eficiencia en el
 consumo de recursos. En dispositivos móviles, presenta un rendimiento más ligero en comparación con Unity y Unreal
@@ -69,7 +69,7 @@ Debido a estas limitaciones, hemos decidido descartar Godot Engine como solució
 consumo de recursos es una ventaja, sus herramientas de animación son más limitadas y la integración con MediaPipe
 requiere un esfuerzo adicional que no resulta viable dentro del desarrollo actual.
 
-## Three.js (Web)
+### Three.js (Web)
 
 Tras analizar la documentación de Three.js, identificamos que una de sus principales ventajas es su capacidad para
 ejecutarse directamente en un navegador sin necesidad de instalación, lo que facilita su acceso en diferentes
@@ -87,7 +87,7 @@ Debido a estas limitaciones, hemos decidido descartar Three.js como solución pa
 la web sin instalación es una ventaja, la falta de un sistema nativo de animación y los posibles problemas de
 rendimiento en dispositivos móviles hacen que no sea la opción más adecuada para nuestras necesidades.
 
-## Unreal Engine
+### Unreal Engine
 
 Tras analizar la documentación de Unreal Engine, identificamos varias ventajas significativas. Su motor de animación
 permite interpolaciones de movimiento con un alto nivel de realismo, superando a Unity en este aspecto. Además, su
@@ -107,7 +107,7 @@ Debido a estas limitaciones, hemos decidido descartar Unreal Engine como soluci�
 animación y renderizado ofrecen una calidad superior, su alto consumo de recursos y la dificultad de integración con
 MediaPipe en dispositivos móviles hacen que no sea la opción más adecuada para nuestras necesidades.
 
-## Unity
+### Unity
 
 Tras analizar la documentación de Unity, identificamos que es la opción más adecuada para este proyecto debido a su
 compatibilidad con Android y su robusto sistema de animación. Su integración con datos JSON generados por MediaPipe
