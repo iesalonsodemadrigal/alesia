@@ -39,26 +39,26 @@ tabla:
 La validación del sistema se ha estructurado en cuatro fases técnicas interdependientes. Cada fase ha sido abordada
 como un sub-experimento con pruebas controladas y criterios de evaluación definidos:
 
-### Fase 1: Conversión voz-texto y texto-voz
+### Fase I: Conversión voz-texto y texto-voz
 
 Evaluación de herramientas de reconocimiento automático del habla (ASR) y síntesis de voz (TTS) en función de su
 precisión, latencia, compatibilidad con dispositivos móviles y viabilidad económica.
 La solución seleccionada fue SpeechRecognizer de Android por su eficiencia en tiempo real y su integración nativa.
 
-### Fase 2: Adaptación gramatical del español a LSE
+### Fase II: Conversión de la gramática española a la gramática LSE
 
 Se utilizaron modelos de lenguaje (LLM) como ChatGPT y Gemini para reestructurar frases en español siguiendo las
 reglas gramaticales propias de la LSE.
 La evaluación de esta fase se realizó mediante análisis comparativo entre los resultados generados por IA y los
 producidos por dos intérpretes profesionales en LSE, usando un conjunto de 10 frases comunes.
 
-### Fase 3: Interpretación en modelo 2D
+### Fase III: Interpretación LSE en modelo 2D
 
 Implementación de MediaPipe para la extracción de coordenadas articulares de más de 600 signos en vídeos de LSE.
 Estas coordenadas fueron visualizadas mediante scripts en Python y Pygame, y evaluadas por usuarios que debían
 interpretar las frases representadas por el modelo 2D.
 
-### Fase 4: Representación tridimensional
+### Fase IV: Interpretación LSE con avatar 3D
 
 Creación de un avatar animado en Unity, capaz de interpretar en tiempo real las coordenadas generadas por MediaPipe.
 Se trabajó con modelos de Mixamo, y se aplicaron transformaciones para adaptar las coordenadas al sistema de

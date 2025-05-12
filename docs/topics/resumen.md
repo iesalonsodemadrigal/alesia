@@ -5,11 +5,7 @@
 **Centro:** IES Alonso de Madrigal (Ávila)  
 **Curso:** 2024/25   
 **Profesor:** Jose María Pérez Ramos   
-**Alumnos:**
-
-* Alessandro Jherik Paucar Enrriquez
-* David Andrés Lozano Sánchez
-* Ian Gabriel Mendoza Portillo
+**Alumnos:** Alessandro Jherik Paucar Enrriquez, David Andrés Lozano Sánchez e Ian Gabriel Mendoza Portillo
 
 Este trabajo presenta los resultados de una investigación aplicada desarrollada por estudiantes del Ciclo Formativo de
 Grado Superior en Desarrollo de Aplicaciones Multiplataforma, cuyo objetivo ha sido diseñar un sistema de traducción
@@ -34,3 +30,7 @@ gestos faciales más naturales.
 
 Lengua de Signos Española (LSE), Inteligencia Artificial, Visión Artificial, Modelado 3D, Procesamiento del Lenguaje
 Natural (PLN), Reconocimiento de Voz, Accesibilidad Comunicativa.
+
+Spanish Sign Language (SSL), Artificial Intelligence, Computer Vision, 3D Modeling, Natural Language Processing (NLP),
+Speech Recognition, Communicative Accessibility.
+

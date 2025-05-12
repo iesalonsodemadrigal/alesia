@@ -21,9 +21,9 @@ en entornos con ruido; y audios propios, grabaciones experimentales realizadas e
 A continuación, se presentará una tabla con las características teóricas de cada modelo que paso la fase de selección
 para después realizar pruebas.
 
-![Tabla 1: Características técnicas de aplicaciones](tabla_analisis_voz.png)
+![Tabla 1: Características técnicas de aplicaciones](tabla_analisis_voz.jpeg)
 
-![Figura 0.1: Comparativa de la tasa de error de palabras](grafica_error_apps_voz.png)
+![Figura 0.1: Comparativa de la tasa de error de palabras](grafica_error_apps_voz.jpeg)
 
 ## Análisis y comparativa
 
@@ -49,7 +49,7 @@ Se han analizado múltiples opciones de transcripción, las cuales se pueden div
 Cada modelo ha sido probado en el mismo dispositivo para garantizar una comparación justa en términos de
 rendimiento.
 
-![Comparativa de modelos testeados](modelos_testeados.png)
+![Comparativa de modelos testeados](modelos_testeados.jpeg)
 
 ## Conclusión de la comparación
 
@@ -91,7 +91,7 @@ Se realizaron pruebas con audios de diferentes duraciones para evaluar el tiempo
 la transcripción (WER, Word Error Rate). A continuación, se presenta un resumen de los tiempos de transcripción y
 precisión obtenidos con los modelos más relevantes.
 
-![Datos sobre la transcripción probada](transcripcion_probada.png)
+![Datos sobre la transcripción probada](transcripcion_probada.jpeg)
 
 ## Selección de la Herramienta para la implementación del proyecto
 

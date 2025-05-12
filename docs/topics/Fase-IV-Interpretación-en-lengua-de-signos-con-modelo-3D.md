@@ -1,4 +1,4 @@
-# Fase 4: Interpretación en lengua de signos español con modelo 3D
+# Fase IV: Interpretación LSE con avatar 3D
 
 ## Objetivo
 
@@ -154,6 +154,13 @@ pagina comparten la misma nomenclatura de huesos por lo que si utilizábamos un 
 otro momento por otro de la misma página sin realizar modificaciones en nuestra implementación.
 
 Escogimos un modelo simple, una mujer con camiseta blanca (Megan en la página de mixamo)
-![Alesia, avatar 3D](alesia_test.png)
+![Alesia, avatar 3D](alesia_test.jpeg)
+
+## Conclusiones
+
+Luego de evaluar cuidadosamente cada herramienta, concluimos que Unity es la solución más adecuada para implementar el
+modelo 3D en nuestro proyecto. Su facilidad de integración con MediaPipe, potencia en animación mediante Mecanim y
+compatibilidad óptima con dispositivos Android hacen que esta plataforma cumpla plenamente con nuestros objetivos
+técnicos y prácticos, garantizando un resultado final eficiente y accesible. 
 
 
