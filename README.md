@@ -1,4 +1,4 @@
-# 🤖 Alesia: Asistente para la interpretación de Lengua de Signos con Inteligencia Artificial
+# Alesia: Asistente para la interpretación de Lengua de Signos con Inteligencia Artificial
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Unity](https://img.shields.io/badge/Unity-3D-lightgrey)
