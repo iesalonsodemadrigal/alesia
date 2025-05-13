@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Alesia</string>
+    <string name="start_recording">Iniciar Grabación</string>
+    <string name="stop_recording">Detener Grabación</string>
+    <string name="text_to_speech">Texto a Audio</string>
+    <string name="stop_audio">Detener Audio</string>
+    <string name="input_text_or_speech">Introduce texto o habla...</string>
 </resources>

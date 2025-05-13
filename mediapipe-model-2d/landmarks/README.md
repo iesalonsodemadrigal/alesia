@@ -1,0 +1,1 @@
+En esta carpeta se copian las animaciones para visualizarlas con el modelo 2D.

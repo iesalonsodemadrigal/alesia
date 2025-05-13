@@ -1,0 +1,1 @@
+En esta carpeta se añadirán automáticamente los archivos json (animaciones) de los videos analizados.

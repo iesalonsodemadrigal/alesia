@@ -1,0 +1,1 @@
+En esta carpeta se copian los videos que se quieran analizar.
