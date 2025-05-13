@@ -1,5 +1,12 @@
 # 🤖 Alesia: Asistente para la interpretación de Lengua de Signos con Inteligencia Artificial
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Unity](https://img.shields.io/badge/Unity-3D-lightgrey)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Web](https://img.shields.io/badge/Web-HTML%2FCSS%2FJS-blue)
+
 **Alesia** es un proyecto de investigación aplicada desarrollado por estudiantes de Formación Profesional en el IES
 Alonso de Madrigal (Ávila), cuyo objetivo es crear una aplicación capaz de traducir la lengua hablada a **Lengua de
 Signos Española (LSE)** en tiempo real utilizando **Inteligencia Artificial**.
@@ -37,16 +44,38 @@ educativo.
 
 ## 👥 Autores
 
-- Jose María Pérez Ramos (Profesor/Coordinador/Tutor).
-- Alessandro Jherik Paucar Enrriquez.
-- David Andrés Lozano Sánchez.
-- Ian Gabriel Mendoza Portillo.
+- [Jose María Pérez Ramos](https://www.linkedin.com/in/jmperezramos/)
+- [Alessandro Jherik Paucar Enrriquez](https://www.linkedin.com/in/alessandropaucar/)
+- [David Andrés Lozano Sánchez](https://www.linkedin.com/in/david-lozano-s%C3%A1nchez/).
+- [Ian Gabriel Mendoza Portillo](https://www.linkedin.com/in/ian-g-mendoza-portillo/).
 
 ## 🔗 Más información
 
 Puedes conocer más sobre Alesia, ver vídeos, resultados, demo y documentación completa del proyecto en nuestra web:
 
 👉 [https://alesia.iesalonsodemadrigal.es](https://alesia.iesalonsodemadrigal.es)
+
+# Licencia
+
+### Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Este proyecto está licenciado bajo la licencia **Creative Commons Atribución 4.0 Internacional**.
+
+Puedes copiar, distribuir, modificar y construir a partir de este proyecto, incluso con fines comerciales, siempre que des el crédito correspondiente a los autores originales.
+
+#### Debes:
+
+- **Dar crédito** apropiado, proporcionar un enlace a la licencia e indicar si se han realizado cambios.
+- Puedes hacerlo de cualquier manera razonable, pero no de forma que sugiera que tienes el respaldo del licenciante o que lo recibes por el uso que haces.
+
+#### No puedes:
+
+- Aplicar términos legales o medidas tecnológicas que restrinjan legalmente a otros a hacer cualquier cosa que la licencia permita.
+
+#### Enlace a la licencia completa:
+
+[https://creativecommons.org/licenses/by/4.0/deed.es](https://creativecommons.org/licenses/by/4.0/deed.es)
+
 
 ---
 
