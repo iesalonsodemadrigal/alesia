@@ -6,6 +6,7 @@
                  name="Alesia"
                  start-page="resumen.md">
 
+    <toc-element topic="demo.md"/>
     <toc-element topic="resumen.md"/>
     <toc-element topic="Introduccion.md"/>
     <toc-element topic="hipotesis.md"/>
