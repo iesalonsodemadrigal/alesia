@@ -6,7 +6,6 @@
                  name="Alesia"
                  start-page="resumen.md">
 
-    <toc-element topic="demo.md"/>
     <toc-element topic="resumen.md"/>
     <toc-element topic="Introduccion.md"/>
     <toc-element topic="hipotesis.md"/>
@@ -19,5 +18,6 @@
     </toc-element>
     <toc-element topic="resultado-y-analisis.md"/>
     <toc-element topic="conclusiones.md"/>
+    <toc-element topic="demo.md"/>
     <toc-element topic="Bibliografia.md"/>
 </instance-profile>
