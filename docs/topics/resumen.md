@@ -26,6 +26,8 @@ la fluidez de la interpretación (media 2/5). Las conclusiones destacan la viabi
 accesibles de traducción en tiempo real y la necesidad de continuar entrenando el modelo con expresiones coloquiales y
 gestos faciales más naturales.
 
+**El contenido de esta web se ha cogido de una parte de las memorias realizadas en este proyecto de investigación.**
+
 ## Palabras claves
 
 Lengua de Signos Española (LSE), Inteligencia Artificial, Visión Artificial, Modelado 3D, Procesamiento del Lenguaje
