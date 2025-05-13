@@ -31,9 +31,6 @@ Aquí podéis ver a Alesia. Es multiplataforma: se puede usar en un móvil, un r
 
 Al otro lado representamos visualmente los pasos que realiza internamente.
 
-Utilizamos Inteligencia Artificial para convertir voz en texto, aplicar la gramática de la lengua de
-signos e interpretarlos.
-
 Vamos ahora a explicar las cuatro fases que forman el desarrollo experimental.
 
 # Slide 5 (David)
@@ -72,8 +69,6 @@ Por último, obtenidas las coordenadas, pasamos esta información a Alesia.
 
 El resultado es una representación visual del mensaje en Lengua de Signos.
 
-La validación de estas fases representan la parte cuantitativa de nuestro enfoque mixto de investigación.
-
 # Slide 10 (David)
 
 El camino hasta aquí no ha sido fácil. Hemos pasado muchas horas conociendo la gramática de la lengua de signos,
@@ -87,7 +82,7 @@ Aquí podéis ver la precisión y el realismo de Alesia.
 
 # Slide 12 (Ian)
 
-Para el enfoque cualitativo de nuestra investigación, diseñamos un cuestionario propio.
+A través de este cuestionario recogemos la valoración de los intérpretes.
 
 Estamos muy orgullosos de los resultados. La valoración media ha sido positiva.
 
