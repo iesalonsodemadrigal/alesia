@@ -34,4 +34,6 @@ Para ejecutar la demo se deben seguir los pasos siguientes:
 
 ### Demo de Alesia
 
+[Pulse aquí para abrir en una ventana nueva](https://alesia.aulapragmatica.es/demo)
+
 <inline-frame src="https://alesia.aulapragmatica.es/demo" width="980px" height="680px" />
