@@ -2,8 +2,8 @@
 
 **Alesia: Asistente para la interpretación a lenguaje de signos con Inteligencia Artificial**
 
-**Centro:** IES Alonso de Madrigal (Ávila)  
-**Curso:** 2024/25   
+**Curso:** 2024/25
+**Centro:** IES Alonso de Madrigal (Ávila)
 **Profesor:** Jose María Pérez Ramos   
 **Alumnos:** Alessandro Jherik Paucar Enrriquez, David Andrés Lozano Sánchez e Ian Gabriel Mendoza Portillo
 
@@ -20,13 +20,10 @@ visualización en 3D mediante un avatar animado en Unity. La validación se ha r
 propio, basado en criterios establecidos por la CNSE y literatura especializada, aplicado a intérpretes profesionales de
 LSE.
 
-Los resultados obtenidos muestran que el sistema alcanza un nivel de comprensión funcional, especialmente en la
-adaptación gramatical (media 4/5), aunque se identifican aspectos mejorables como la expresividad facial (media 1/5) y
-la fluidez de la interpretación (media 2/5). Las conclusiones destacan la viabilidad del desarrollo de sistemas
-accesibles de traducción en tiempo real y la necesidad de continuar entrenando el modelo con expresiones coloquiales y
-gestos faciales más naturales.
+## Presentación del proyecto
 
-## Presentación del proyecto en los 'Premios de Investigación Educativa 2025 -categoría formación profesional-'
+Esta presentación corresponde a los 'Premios de Investigación e Innovación en ESO, Bachillerato y Formación Profesional
+2024-25'
 
 <video src="https://youtu.be/Erdl_m1Pxu8" />
 
