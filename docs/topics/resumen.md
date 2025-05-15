@@ -25,13 +25,13 @@ LSE.
 Esta presentación corresponde a los 'Premios de Investigación e Innovación en ESO, Bachillerato y Formación Profesional
 2024-25'
 
-<video src="https://youtu.be/Erdl_m1Pxu8" />
+<video src="https://youtu.be/Erdl_m1Pxu8" preview-src="slides_portada.jpeg" />
 
 ## Video demostración
 
 En el siguiente vídeo podéis ver una demostración de la ejecución del proyecto.
 
-<video src="video_demo_alesia.mp4" preview-src="alesia_mvp.jpeg" />
+<video src="https://youtu.be/rJapg34f_iw" preview-src="alesia_mvp.jpeg" />
 
 
 ### Palabras claves
