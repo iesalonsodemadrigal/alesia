@@ -31,6 +31,9 @@ Esta presentación corresponde a los 'Premios de Investigación e Innovación en
 
 En el siguiente vídeo podéis ver una demostración de la ejecución del proyecto.
 
+<video src="video_demo_alesia.mp4" preview-src="alesia_mvp.jpeg" />
+
+
 ### Palabras claves
 
 Lengua de Signos Española (LSE), Inteligencia Artificial, Visión Artificial, Modelado 3D, Procesamiento del Lenguaje
