@@ -5,6 +5,10 @@ ellas se ha validado una parte imporante de la hipótesis principal del estudio:
 oral y la Lengua de Signos Española (LSE), y viceversa, mediante el uso de tecnologías basadas en inteligencia
 artificial. A continuación, se detallan los resultados obtenidos por fase:
 
+Aquí podéis ver un vídeo de la evolución de Alesia:
+
+<video src="evolucion_alesia.mp4" preview-src="screenshot_evolucion_alesia.jpeg" />
+
 ## Fase I: Conversión voz-texto y texto-voz
 
 - Se ha implementado un sistema de reconocimiento de voz con modelos de IA que permite convertir en tiempo real mensajes
